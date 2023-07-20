@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.Map.Entry;
 
 
-public class remove_duplicates 
+public class Removing_Duplicate_Character 
 {
     public static void main(String[] args)
     {
